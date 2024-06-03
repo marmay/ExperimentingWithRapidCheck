@@ -1,0 +1,11 @@
+*.vcxproj.user
+*.vcxproj.filters
+.vs
+conan.lock
+conanbuildinfo.props
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
+x64/
+Experime.*/
+

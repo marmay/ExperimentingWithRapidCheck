@@ -1,0 +1,5 @@
+[requires]
+rapidcheck/cci.20230815
+
+[generators]
+visual_studio
